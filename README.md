@@ -7,6 +7,7 @@
 
 ## Projects
 | # | Project | Tech | Status |
+|---|---|---|---|
 | 1 | Snake Water Gun Game | Python | ✅ Done |
 | 2 | The Perfect Guess | Python | ✅ Done |
 | 3 | EDA — [Dataset Name] | Python, pandas | 🔄 Upcoming |
