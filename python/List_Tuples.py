@@ -1,4 +1,4 @@
-"""
+#1st code
 a = (1, )
 print(type(a))  # Output: <class 'tuple'>
 
@@ -11,6 +11,7 @@ print(c)  # Output: 3
 print(a, b)
 print(a, b, c)  # Output: 1 2 3
 
+#2nd code
 list = []
 
 names = input(f"Enter the names of the fruits: ").split(", ")
@@ -19,4 +20,3 @@ print("The names of the fruits are:", names)
 
 a = (7, 0, 8, 0, 0, 9)
 print(a.count(0))  # Output: 3
-"""
