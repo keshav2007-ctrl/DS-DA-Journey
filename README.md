@@ -31,4 +31,4 @@ A collection of Python projects and exercises built while learning Python from s
 
 ## Connect
   - LinkedIn: https://www.linkedin.com/in/keshav-bhardwaj-540102238
-  - Email: bhardwajkeshav2007@gmai.com
+  - Email: bhardwajkeshav2007@gmail.com
