@@ -1,4 +1,5 @@
-"""a = int(input("Enter your age: "))
+#1st code
+a = int(input("Enter your age: "))
 
 if 0< a < 18:
     print("You are a minor.")
@@ -9,6 +10,7 @@ elif a == 0:
 else:
     print("You are an adult.")
 
+#2nd code
 a1 = int(input("Enter 1st number: "))
 a2 = int(input("Enter 2nd number: "))
 a3 = int(input("Enter 3rd number: "))
@@ -26,6 +28,7 @@ elif a3 > a1 and a3 > a2 and a3 > a4:
 else:
     print("The largest number is:", a4)
 
+#3rd code
 m1 = int(input("Enter marks of subject 1: "))
 m2 = int(input("Enter marks of subject 2: "))
 m3 = int(input("Enter marks of subject 3: "))
@@ -43,6 +46,7 @@ if total_percentage >= 40:
 else:
     print("You have failed the exam.", total_percentage)
 
+#4th code
 user = input("Enter your username: ")
 
 if len(user) < 10:
@@ -50,11 +54,12 @@ if len(user) < 10:
 else:
     print("Username is valid.")
 
+#5th code
 post = input("Enter your post: ")
 
 if(word.lower() in post.lower()):
     print("The word is present in the post.")
 else:
     print("The word is not present in the post.")
-"""
+
     
