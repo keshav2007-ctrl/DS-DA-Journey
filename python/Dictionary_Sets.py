@@ -1,4 +1,3 @@
-"""
 mark = {} #this is an empty dictionary
 marks = {
         "devika": 85,
@@ -32,6 +31,14 @@ print(marks["rahul"])  # Access the value using square brackets
 print(marks.get("rahul2")) #returns None if the key doesn't exist
 print(marks["rahul2"]) #throws KeyError if the key doesn't exist
 
+d = {}
+name = input("Enter name: ")
+lang = input("Enter programming language: ")
+ d.update({name: lang})  # Add the name and programming language to the dictionary
+print("Dictionary:", d)  # Print the dictionary
+
+#sets code
+ #1st code
 s = {1, 2, 3, 4, 5, 5, 5} #this is a set
 e = set() #this is an empty set
 s.add(6) #add an element to the set
@@ -56,18 +63,10 @@ s.remove(2) #removes the element 2 from the set
 s.remove(10) #throws KeyError if the element is not present in the set
 s.clear() #removes all elements from the set
 
-s2 = set()
-
+ #2nd code
+s4 = set()
 e = input("Enter elements for the set (comma-separated): ")
 e = e.split(",")  # Split the input string into a list of elements
 for item in e:
-    s2.add(int(item))  # Add each element to the set
+    s4.add(int(item))  # Add each element to the set
 print("Set elements:", s2)
-
-d = {}
-name = input("Enter name: ")
-lang = input("Enter programming language: ")
- d.update({name: lang})  # Add the name and programming language to the dictionary
-print("Dictionary:", d)  # Print the dictionary
-"""
-
