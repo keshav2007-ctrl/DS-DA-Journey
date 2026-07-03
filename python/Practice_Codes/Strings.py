@@ -1,5 +1,7 @@
 #1st code
 a = input("Enter your name: ")
+name = input("Enter your name: ")
+date = input("Enter the date: ")
 
 print(f"Good Afternoon, {a}!") #prints Good Afternoon, <name>!
 

@@ -34,7 +34,7 @@ print(marks["rahul2"]) #throws KeyError if the key doesn't exist
 d = {}
 name = input("Enter name: ")
 lang = input("Enter programming language: ")
- d.update({name: lang})  # Add the name and programming language to the dictionary
+d.update({name: lang})  # Add the name and programming language to the dictionary
 print("Dictionary:", d)  # Print the dictionary
 
 #sets code
