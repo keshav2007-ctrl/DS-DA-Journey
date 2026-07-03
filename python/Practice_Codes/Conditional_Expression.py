@@ -56,8 +56,9 @@ else:
 
 #5th code
 post = input("Enter your post: ")
+word = input("Enter the word to search: ")
 
-if(word.lower() in post.lower()):
+if (word.lower() in post.lower()):
     print("The word is present in the post.")
 else:
     print("The word is not present in the post.")

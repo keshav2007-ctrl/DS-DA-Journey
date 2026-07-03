@@ -86,7 +86,7 @@ n = int(input("Enter the number: "))
 for i in range(10, 0, -1):
     print(f"{n} * {i} = {n*i}") #prints the multiplication table of n in reverse order
 
-    OR
+    #OR
 
 n = int(input("Enter the number: "))
 for i in range(1, 11):

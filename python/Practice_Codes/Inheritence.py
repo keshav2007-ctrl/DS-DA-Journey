@@ -2,7 +2,7 @@ class Employee: #this can be called as base/parent class
     company = "ITC"
 
     def show(self):
-        print(f"The name of the employee is {self.name}\nThe salary of the employee is {name.salary}") #this method(and any other method that might be addded to this class in future) has been inherited by programmer class.
+        print(f"The name of the employee is {self.name}\nThe salary of the employee is {self.salary}") #this method(and any other method that might be addded to this class in future) has been inherited by programmer class.
 
 """
 class Programmer:
