@@ -1,5 +1,5 @@
 #1st code
-i = 8
+i = 6
 
 while(i>7):
     print(i)
