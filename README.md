@@ -1,4 +1,4 @@
-# DS & Quant Journey 🚀
+# DS & DA Journey 🚀
   My complete Data Science and Quantitative Finance learning journey — from Python basics to ML models and algorithmic trading strategies.
 
 ## About
