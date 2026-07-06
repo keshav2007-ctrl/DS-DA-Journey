@@ -1,8 +1,8 @@
-# 📍 Roadmap — DS & Quant Journey (2026–2028)
+# 📍 Roadmap — DS & DA Journey (2026–2028)
 
-**Goal:** Data Analyst / Junior Data Scientist / Quant Analyst role at ₹10–20 LPA by April 2028  
-**Starting point:** BA Maths+CS, Year 1 complete, zero DS/Quant experience  
-**Strategy:** Python → pandas → SQL → ML → Quant → Deploy → Get hired
+**Goal:** Data Analyst / Junior Data Scientist role at ₹10–20 LPA by April 2028  
+**Starting point:** BA Maths+CS, Year 1 complete, zero DS/DA experience  
+**Strategy:** Python → pandas → SQL → ML → Deploy → Get hired
 
 ---
 
