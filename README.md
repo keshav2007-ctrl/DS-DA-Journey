@@ -3,7 +3,7 @@
 
 ## About
   I'm Keshav Bhardwaj, a BA (Mathematics + Computer Science) student at PGDAV College, University of Delhi.
-  Building towards a Data Analyst / Junior Data Scientist / Quant Analyst role by 2028.
+  Building towards a Data Analyst / Junior Data Scientist role by 2028.
 
 ## Projects Planned
 
