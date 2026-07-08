@@ -73,7 +73,7 @@ Strategy: Python → pandas → SQL → Statistics → ML → Deploy → Get hir
 | 4 | Real Cohort/Retention Dashboard | Pandas, Causal Inference, Real Business/Club Data | ⏳ Upcoming |
 | 5 | A/B Testing Tool (deployed) | Streamlit, Bayesian + Frequentist Statistics | ⏳ Upcoming |
 | 6 | Time Series Forecasting | Prophet / ARIMA | ⏳ Upcoming |
-| 7 | NLP Sentiment Analysis | spaCy / Transformers | ⏳
+| 7 | NLP Sentiment Analysis | spaCy / Transformers | ⏳ Upcoming |
 
 ---
 
