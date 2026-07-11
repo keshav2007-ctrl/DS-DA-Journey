@@ -1,5 +1,5 @@
 # DS & DA Journey 🚀
-  My complete Data Science and Quantitative Finance learning journey — from Python basics to ML models and algorithmic trading strategies.
+  My complete Data Science and Data Analyst learning journey — from Python basics to ML models.
 
 ## About
   I'm Keshav Bhardwaj, a BA (Mathematics + Computer Science) student at PGDAV College, University of Delhi.
