@@ -1,47 +1,53 @@
-# 📍 Roadmap — DS & DA Journey (2026–2028)
+📍 Roadmap — DS & DA Journey (2026–2028)
 
-**Goal:** Data Analyst / Junior Data Scientist role at ₹10–20 LPA by April 2028  
-**Starting point:** BA Maths+CS, Year 1 complete, zero DS/DA experience  
-**Strategy:** Python → pandas → SQL → ML → Deploy → Get hired
+Goal: Data Analyst / Data Scientist role at ₹12–20 LPA by April 2028
+Starting point: BA Maths+CS, Year 1 complete, zero DS/DA experience
+Strategy: Python → pandas → SQL → Statistics → ML → Deploy → Get hired
 
 ---
 
-## 🏁 Phase 0 — Vacation Sprint (Jun 25 – Jul 20, 2026)
+## 🏁 Phase 0 — Vacation Sprint (Jun 25 – Jul 27, 2026)
+
 | Week | Topic | Goal |
 |---|---|---|
-| Week 1 (Jun 25–Jul 1) | Python fundamentals | Functions, loops, OOP, File I/O, Advanced Python |
-| Week 2 (Jul 2–Jul 8) | pandas + numpy + matplotlib | Load, clean, explore, visualize datasets |
-| Week 3 (Jul 9–Jul 15) | SQL | SELECT, JOINs, GROUP BY, Window functions |
-| Week 4 (Jul 16–Jul 20) | Statistics + Start Project #1 EDA | Project #1 50% done |
+| Week 1 (Jun 25–Jul 1) | Python fundamentals | Functions, loops, OOP, File I/O, Advanced Python — ✅ Done |
+| Week 2 (Jul 2–Jul 8) | pandas + numpy + matplotlib | Load, clean, explore, visualize datasets — 🔄 In Progress |
+| Week 3 (Jul 9–Jul 15) | SQL | SELECT, JOINs, GROUP BY, Window functions, CTEs |
+| Week 4-5 (Jul 16–Jul 27) | Statistics + Start Project #1 EDA | Probability, hypothesis testing, regression basics |
 
----
+## 🎯 Phase 1 — Starting ML (Jul 28 – Sep 30, 2026)
 
-## 🎯 Phase 1 — STarting ML (Jul 20 – Sep 30, 2026)
 | Period | Topic | Goal |
 |---|---|---|
-| Jul 20 – Aug | Finish Project #1 + ML basics | Project #1 live on GitHub |
-| Aug – Sep | Project #2 (prediction model)  |Deepening my understanding through the project|
-
----
+| Jul 28 – Aug 15 | ML basics (Andrew Ng) + scikit-learn | Regression, train/test split |
+| Aug 16 – Sep 5 | Project #2 — prediction model | On GitHub |
+| Sep 6 – Sep 30 | Apply 10+ internships/week + ML classification | Data Analyst internship by Sep 30 |
 
 ## 📈 Phase 2 — Deepening (Oct 2026 – Jun 2027)
+
 | Period | Topic | Goal |
 |---|---|---|
-| Oct–Nov 2026 | XGBoost, Random Forests + Kaggle competition | Project #3 done |
-| Dec 2026 | Quant — Zerodha Varsity Modules 1–3 | Stocks, futures, options basics |
-| Jan–Feb 2027 | NLP specialization + Project #4 | Project #4 done |
-| Mar 2027 | Google Data Analytics cert + Varsity Modules 4–5 | Certification done |
-| Apr–May 2027 | FastAPI + Render/AWS + Project #5 deployed | Live deployed ML app |
-| Jun 2027 | Quant backtesting — yfinance + first strategy | First NSE backtest done |
+| Oct 1–17, 2026 | XGBoost, Random Forests, cross-validation | Strong ML fundamentals |
+| Oct 18–25, 2026 | Class imbalance handling (SMOTE, cost-sensitive learning) + WOE/IV credit scoring | Groundwork for Project #3 |
+| Oct 26 – Nov 19, 2026 | Feature engineering, model evaluation | Interview-ready ML |
+| Nov 20 – Dec 3, 2026 | Light DS study | Exam focus |
+| Dec 4–24, 2026 | Exam pause | Pass exams |
+| Dec 25–31, 2026 | Project #3 — Fraud/Risk scoring model, deployed as API | Live deployable project |
+| Jan 1 – Feb 28, 2027 | NLP specialization + causal inference (diff-in-diff, correlation vs. causation) | Groundwork for Project #4 |
+| Mar 1–20, 2027 | Google Data Analytics cert + Project #4 — real cohort/retention dashboard, sourced from an actual small business/club | Certification + real project done |
+| Mar 21–28, 2027 | Bayesian vs. frequentist A/B testing | Depth topic |
+| Mar 29 – Apr 29, 2027 | FastAPI + Render + Project #5 — general-purpose A/B testing tool (Streamlit) | Live deployed app |
+| Apr 30 – Jun 2, 2027 | Light DS only | Exam focus |
 
----
+## 🚀 Phase 3 — Final Year / Job Launch (Jun 2027 – Apr 2028)
 
-## 🚀 Phase 3 — Final Year (Jun 2027 - May 2028)
 | Period | Topic | Goal |
 |---|---|---|
-| Jun–Sept 2027 | LeetCode SQL daily + Python interview prep | 30+ SQL questions done |
-| Oct-Dec 2027 | Quant Project #2 (pairs trading) + mock interviews | Quant project live |
-| Jan–April 2028 |Last Semester + Refining Skills | Building a Resume |
+| Jun 3 – Jul 20, 2027 | 2nd internship hunt + model monitoring/data drift concepts | 2nd internship landed |
+| Jul 21 – Sep 30, 2027 | 3rd internship hunt + LeetCode SQL daily | 3rd internship by Sep 2027 |
+| Oct – Dec 2027 | Interview prep — SQL + Python + mock interviews | 30+ LeetCode SQL done |
+| Jan – Feb 2028 | Apply — GCCs (Amex, JPMorgan off-campus), Tier 2 GCCs, startups | Interviews rolling in |
+| Mar – Apr 2028 | Convert offers + negotiate | Target: ₹12–20 LPA |
 
 ---
 
@@ -49,25 +55,25 @@
 
 | Category | Skills |
 |---|---|
-| Programming | Python, SQL |
+| Programming | Python, SQL (incl. window functions, CTEs, query optimization) |
 | Data & ML | pandas, numpy, scikit-learn, XGBoost, NLP, matplotlib, seaborn |
-| Quant | yfinance, pandas-ta, backtesting, QuantConnect, Sharpe ratio |
-| Deployment | FastAPI, Render, AWS basics, Git, GitHub |
-| Statistics | Hypothesis testing, A/B testing, probability distributions |
+| Differentiator topics | Class imbalance (SMOTE), WOE/IV credit scoring, causal inference (diff-in-diff), Bayesian A/B testing, model monitoring/drift |
+| Deployment | FastAPI, Render, Streamlit, Git, GitHub |
+| Statistics | Probability, hypothesis testing, regression, A/B testing (frequentist + Bayesian) |
 
 ---
 
 ## 📁 Projects Planned
 
-| # | Project | Tech | Status |
+| # | Project | Tech Stack | Status |
 |---|---|---|---|
-| 1 | EDA — [Dataset Name] | Python, pandas | 🔄 In Progress |
-| 2 | Prediction Model | Python, scikit-learn | 🔄 Upcoming |
-| 3 | Kaggle Competition | Python, XGBoost | 🔄 Upcoming |
-| 4 | NLP Project | Python, NLP | 🔄 Upcoming |
-| 5 | Deployed ML App | FastAPI, Render | 🔄 Upcoming |
-| 6 | Algo Trading Backtester | Python, yfinance | 🔄 Upcoming |
-| 7 | Pairs Trading Strategy | Python, QuantConnect | 🔄 Upcoming |
+| 1 | EDA — [Dataset Name] | Python, Pandas | 🔄 In Progress |
+| 2 | Prediction Model | Python, Scikit-learn | ⏳ Upcoming |
+| 3 | Fraud/Risk Scoring API (deployed) | Scikit-learn, FastAPI, WOE/IV, Class Imbalance Handling | ⏳ Upcoming |
+| 4 | Real Cohort/Retention Dashboard | Pandas, Causal Inference, Real Business/Club Data | ⏳ Upcoming |
+| 5 | A/B Testing Tool (deployed) | Streamlit, Bayesian + Frequentist Statistics | ⏳ Upcoming |
+| 6 | Time Series Forecasting | Prophet / ARIMA | ⏳ Upcoming |
+| 7 | NLP Sentiment Analysis | spaCy / Transformers | ⏳ Upcoming |
 
 ---
 
@@ -77,15 +83,14 @@
 |---|---|---|
 | 1 | Sep–Dec 2026 | Data Analyst intern |
 | 2 | Apr–Jul 2027 | ML/DS intern |
-| 3 | Sep–Dec 2027 | Quant/Senior DS intern |
+| 3 | Sep–Dec 2027 | Data Analyst/DS intern, aiming higher (GCC-tier) |
 
 ---
 
 ## 🏆 Target Companies (2028)
+JPMorgan, American Express, Goldman Sachs, EXL, Genpact, Fidelity, Deutsche Bank GCC, Gartner, Nomura, Walmart 
 
-**Data Science track:** Razorpay, Groww, Zepto, PhonePe, Walmart Global Tech, Flipkart  
-**Quant track:** Graviton Research, Alphagrep, Tower Research, WorldQuant, Edelweiss Quant Desk
 
 ---
 
-*Last updated: June 2026*
+Last updated: July 2026
