@@ -21,10 +21,13 @@
 |---|---|---|---|
 | 1 | Snake Water Gun Game | Python | ✅ Done |
 | 2 | The Perfect Guess | Python | ✅ Done |
-| 3 | EDA — [Dataset Name] | Python, pandas | 🔄 Upcoming |
-| 4 | Prediction Model | Python, scikit-learn | 🔄 Upcoming |
-| 5 | NLP Project | Python, NLP | 🔄 Upcoming |
-| 6 | Algo Trading Backtester | Python, yfinance | 🔄 Upcoming |
+| 3 | EDA — [Dataset Name] | Python, pandas | ⏳ Upcoming |
+| 4 | Prediction Model | Python, scikit-learn | ⏳ Upcoming |
+| 5 | Fraud/Risk Scoring API (deployed) | Scikit-learn, FastAPI, WOE/IV, Class Imbalance Handling | ⏳ Upcoming |
+| 6 | Real Cohort/Retention Dashboard | Pandas, Causal Inference, Real Business/Club Data | ⏳ Upcoming |
+| 7 | NLP Sentiment Analysis | spaCy / Transformers | ⏳ Upcoming |
+| 8 | A/B Testing Tool (deployed) | Streamlit, Bayesian + Frequentist Statistics | ⏳ Upcoming |
+| 9 | Time Series Forecasting | Prophet / ARIMA | ⏳ Upcoming |
 
 ## Roadmap
   Currently learning: **Python → pandas/numpy → SQL → Machine Learning**
