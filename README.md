@@ -21,13 +21,14 @@
 |---|---|---|---|
 | 1 | Snake Water Gun Game | Python | ✅ Done |
 | 2 | The Perfect Guess | Python | ✅ Done |
-| 3 | EDA — [Dataset Name] | Python, pandas | ⏳ Upcoming |
-| 4 | Prediction Model | Python, scikit-learn | ⏳ Upcoming |
-| 5 | Fraud/Risk Scoring API (deployed) | Scikit-learn, FastAPI, WOE/IV, Class Imbalance Handling | ⏳ Upcoming |
-| 6 | Real Cohort/Retention Dashboard | Pandas, Causal Inference, Real Business/Club Data | ⏳ Upcoming |
-| 7 | NLP Sentiment Analysis | spaCy / Transformers | ⏳ Upcoming |
-| 8 | A/B Testing Tool (deployed) | Streamlit, Bayesian + Frequentist Statistics | ⏳ Upcoming |
-| 9 | Time Series Forecasting | Prophet / ARIMA | ⏳ Upcoming |
+| 3 | EDA — [Dataset Name] | Python, Pandas | Aug 2026 | 🔄 In Progress |
+| 4 | Prediction Model | Python, Scikit-learn | Aug–Sep 2026 | ⏳ Upcoming |
+| 5 | Fraud/Risk Scoring API (deployed) | Scikit-learn, FastAPI, WOE/IV, Class Imbalance Handling | Nov 2026 – Jan 2027 | ⏳ Upcoming |
+| 6 | Real Cohort/Retention Dashboard | Pandas, Plotly, Causal Inference, Real Business/Club Data | Feb – Apr 2027 | ⏳ Upcoming |
+| 7 | A/B Testing Tool (deployed) | Streamlit, Bayesian + Frequentist Statistics | May – Jun 2027 | ⏳ Upcoming |
+| 8 | Time Series Forecasting | Prophet / ARIMA | Jul – Aug 2027 | ⏳ Upcoming |
+| 9 | NLP Sentiment Analysis | spaCy / Transformers, Aspect-Based, Explainability (SHAP/LIME) | Sep – Nov 2027 | ⏳ Upcoming |
+| 10| Pricing/Discount Analysis or Inventory Optimization | TBD | If time allows | ⏳ Optional |
 
 ## Roadmap
   Currently learning: **Python → pandas/numpy → SQL → Machine Learning**
