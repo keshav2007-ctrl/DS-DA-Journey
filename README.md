@@ -8,8 +8,8 @@
 ## 📁 Projects
 | # | Project | Tech | Status |
 |---|---|---|---|
-| 1 | Snake Water Gun Game | Python | ✅ Done |
-| 2 | [The Perfect Guess](https://github.com/keshav2007-ctrl/DS-DA-Journey/blob/main/Projects/Project1_Python.py) | Python | ✅ Done |
+| 1 | [Snake Water Gun Game](https://github.com/keshav2007-ctrl/DS-DA-Journey/blob/main/Projects/Project1_Python.py) | Python | ✅ Done |
+| 2 | [The Perfect Guess](https://github.com/keshav2007-ctrl/DS-DA-Journey/blob/main/Projects/Project2_Python.py) | Python | ✅ Done |
 | 3 |[Shipment Tracking CLI](https://github.com/keshav2007-ctrl/DS-DA-Journey/tree/main/Projects/Project3_Python) | Python, pandas, argparse | CLI tool for order lookup, delay flagging, and route-level delivery analytics | ✅ Done |
 | 4 | EDA — [Dataset Name] | Python, Pandas | Aug 2026 | 🔄 In Progress |
 | 5 | Prediction Model | Python, Scikit-learn | Aug–Sep 2026 | ⏳ Upcoming |
