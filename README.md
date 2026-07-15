@@ -10,7 +10,7 @@
 |---|---|---|---|
 | 1 | Snake Water Gun Game | Python | ✅ Done |
 | 2 | The Perfect Guess | Python | ✅ Done |
-| 3 |[Shipment Tracking CLI](./path-to-folder) | Python, pandas, argparse | CLI tool for order lookup, delay flagging, and route-level delivery analytics | ✅ Done |
+| 3 |[Shipment Tracking CLI]((https://github.com/keshav2007-ctrl/DS-DA-Journey/tree/main/Projects/Project3_Python)) | Python, pandas, argparse | CLI tool for order lookup, delay flagging, and route-level delivery analytics | ✅ Done |
 | 4 | EDA — [Dataset Name] | Python, Pandas | Aug 2026 | 🔄 In Progress |
 | 5 | Prediction Model | Python, Scikit-learn | Aug–Sep 2026 | ⏳ Upcoming |
 | 6 | Fraud/Risk Scoring API (deployed) | Scikit-learn, FastAPI, WOE/IV, Class Imbalance Handling | Nov 2026 – Jan 2027 | ⏳ Upcoming |
