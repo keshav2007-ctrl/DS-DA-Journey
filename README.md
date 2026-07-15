@@ -1,6 +1,6 @@
 # SQL Learning Journey
 
-Part of my [DS-DA-Journey](../) roadmap — documenting my SQL learning from 
+Part of my [DS-DA-Journey](https://github.com/keshav2007-ctrl/DS-DA-Journey) roadmap — documenting my SQL learning from 
 fundamentals through advanced analytics patterns.
 
 ## 📚 Learning Sources
