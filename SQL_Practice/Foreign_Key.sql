@@ -1,0 +1,34 @@
+USE practiceSQL;
+-- DROP TABLE IF EXISTS adresses;
+-- CREATE TABLE adresses(
+--     id INT AUTO_INCREMENT PRIMARY KEY,
+--     employees_id INT,
+--     street VARCHAR(100),
+--     city VARCHAR(150),
+--     state VARCHAR(150),
+--     zip_code VARCHAR(10),
+--     CONSTRAINT fk_employee FOREIGN KEY (employees_id) REFERENCES employees(id) ON DELETE CASCADE
+-- );
+-- INSERT INTO adresses (employees_id, street, city, state, zip_code)
+-- VALUES
+-- (1, '221B MG Road', 'Mumbai', 'Maharashtra', '400001'),
+-- (3, '14 Park Street', 'Kolkata', 'West Bengal', '700016'),
+-- (4, '32 Residency Road', 'Bengaluru', 'Karnataka', '560025'),
+-- (11, '5 North Usman Road', 'Chennai', 'Tamil Nadu', '600017'),
+-- (12, '17 Hazratganj', 'Lucknow', 'Uttar Pradesh', '226001'),
+-- (14, '55 Banjara Hills', 'Hyderabad', 'Telangana', '500034'),
+-- (15, '88 Connaught Place', 'Delhi', 'Delhi', '110001'),
+-- (17, '10 MG Marg', 'Dehradun', 'Uttarakhand', '248001'),
+-- (18, '23 Brigade Road', 'Bengaluru', 'Karnataka', '560025'),
+-- (20, '45 Marine Drive', 'Mumbai', 'Maharashtra', '400020'),
+-- (21, '67 Ashoka Road', 'Delhi', 'Delhi', '110001'),
+-- (23, '89 MG Road', 'Pune', 'Maharashtra', '411001'),
+-- (24, '12 Brigade Road', 'Bengaluru', 'Karnataka', '560025'),
+-- (25, '34 Park Street', 'Kolkata', 'West Bengal', '700016'),
+-- (26, '56 Connaught Place', 'Delhi', 'Delhi', '110001'),
+-- (27, '78 Marine Drive', 'Mumbai', 'Maharashtra', '400020'),
+-- (28, '90 MG Marg', 'Dehradun', 'Uttarakhand', '248001'),
+-- (29, '11 North Usman Road', 'Chennai', 'Tamil Nadu', '600017'),
+-- (31, '33 Residency Road', 'Bengaluru', 'Karnataka', '560025');
+SELECT * FROM employees;
+SELECT * FROM adresses;

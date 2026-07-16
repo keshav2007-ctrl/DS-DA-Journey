@@ -2,7 +2,7 @@ CREATE DATABASE practiceSQL;
 -- DROP DATABASE practiceSQL; 
 USE practiceSQL;
 CREATE TABLE employees(
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    id INT AUTO_INCREMENT PRIMARY KEY,--primary key can only be one per table and it is used to uniquely identify each record in the table.
     first_name VARCHAR(50) NOT NULL,
     last_name VARCHAR(50) NOT NULL,
     email VARCHAR(100) NOT NULL UNIQUE,
