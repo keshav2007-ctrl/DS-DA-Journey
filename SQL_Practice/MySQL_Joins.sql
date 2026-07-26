@@ -1,12 +1,15 @@
 USE PracticeSQL;
-SELECT * FROM employees;
-SELECT * FROM adresses;
-SELECT employees.first_name, adresses.street, employees.salary, adresses.city, adresses.id
-FROM employees
-INNER JOIN adresses on  employees.id = adresses.employees_id;
-SELECT employees.first_name, adresses.street
-FROM employees
-LEFT JOIN adresses ON employees.id = adresses.employees_id;
-SELECT employees.*, adresses.*
-FROM employees
-RIGHT JOIN adresses ON employees.id = adresses.employees_id;--adresses.id will return null 
+SELECT * FROM users;
+SELECT * FROM addresses;
+SELECT users.first_name, addresses.street, users.salary, addresses.city, addresses.id
+FROM users
+INNER JOIN addresses on  users.id = addresses.users_id;
+SELECT users.first_name, addresses.street
+FROM users
+LEFT JOIN addresses ON users.id = addresses.users_id;
+SELECT users.*, addresses.*
+FROM users
+RIGHT JOIN addresses ON users.id = addresses.users_id;--addresses.id will return null 
+SELECT * FROM users
+UNION
+SELECT * FROM admin_users;
