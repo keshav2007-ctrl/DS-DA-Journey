@@ -24,5 +24,10 @@ b.name AS referred_by_name
 FROM users a
 INNER JOIN users b ON a.referred_by_id = b.id;
 CREATE VIEW rich_users AS
-SELECT * FROM users WHERE salary > 68000;
-SELECT * FROM rich_users ;
+SELECT * FROM users WHERE salary > 80000;
+SELECT * FROM rich_users ORDER BY salary DESC;
+UPDATE users SET salary = 75000 WHERE id = 1;
+SELECT * FROM rich_users ORDER BY salary DESC;
+ALTER VIEW rich_users AS
+SELECT * FROM users WHERE salary > 80000;
+SELECT * FROM rich_users ORDER BY salary DESC;
