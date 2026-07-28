@@ -1,15 +1,28 @@
 USE PracticeSQL;
 SELECT * FROM users;
 SELECT * FROM addresses;
-SELECT users.first_name, addresses.street, users.salary, addresses.city, addresses.id
+SELECT users.name, addresses.street, users.salary, addresses.city, addresses.id
 FROM users
-INNER JOIN addresses on  users.id = addresses.users_id;
-SELECT users.first_name, addresses.street
-FROM users
-LEFT JOIN addresses ON users.id = addresses.users_id;
+INNER JOIN addresses on  users.id = addresses.user_id;
 SELECT users.*, addresses.*
 FROM users
-RIGHT JOIN addresses ON users.id = addresses.users_id;--addresses.id will return null 
-SELECT * FROM users
+LEFT JOIN addresses ON users.id = addresses.user_id;
+SELECT users.*, addresses.*
+FROM users
+RIGHT JOIN addresses ON users.id = addresses.user_id;--addresses.id will return null 
+SELECT name, email, date_of_birth, 'USER' AS role FROM users
 UNION
-SELECT * FROM admin_users;
+SELECT name, email, date_of_birth, 'ADMIN' AS role FROM admin_users
+ORDER BY date_of_birth;
+ALTER TABLE users ADD COLUMN referred_by_id INT;
+UPDATE users SET referred_by_id = 1 WHERE id IN (2, 3, 13, 15, 19 ,25);
+UPDATE users SET referred_by_id = 5 WHERE id = 4;
+SELECT
+a.id,
+a.name AS user_name,
+b.name AS referred_by_name
+FROM users a
+INNER JOIN users b ON a.referred_by_id = b.id;
+CREATE VIEW rich_users AS
+SELECT * FROM users WHERE salary > 68000;
+SELECT * FROM rich_users ;
