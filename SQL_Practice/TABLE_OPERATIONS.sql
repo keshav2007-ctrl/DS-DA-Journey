@@ -1,10 +1,9 @@
 CREATE DATABASE practiceSQL;
 -- DROP DATABASE practiceSQL; 
 USE practiceSQL;
-CREATE TABLE employees(
+CREATE TABLE users(
     id INT AUTO_INCREMENT PRIMARY KEY,--primary key can only be one per table and it is used to uniquely identify each record in the table.
-    first_name VARCHAR(50) NOT NULL,
-    last_name VARCHAR(50) NOT NULL,
+    name VARCHAR(100) NOT NULL,
     email VARCHAR(100) NOT NULL UNIQUE,
     gender ENUM('Male', 'Female', 'other') NOT NULL,
     hire_date DATE NOT NULL,
@@ -20,5 +19,5 @@ CREATE TABLE employees(
 -- ALTER TABLE staff MODIFY COLUMN email VARCHAR(100) NOT NULL;
 -- ALTER TABLE staff MODIFY COLUMN email VARCHAR(100) AFTER id;
 
-ALTER TABLE employees RENAME COLUMN hire_date TO date_of_birth;
-SELECT * FRusers
+ALTER TABLE users RENAME COLUMN hire_date TO date_of_birth;
+SELECT * FROM users;
