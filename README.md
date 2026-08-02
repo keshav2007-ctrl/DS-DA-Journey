@@ -22,9 +22,9 @@ fundamentals through advanced analytics patterns.
 - [x] Date & Time functions
 - [x] String functions
 - [x] UNION, UNION ALL, INTERSECT, EXCEPT
+- [x] - Advanced Window Frame Clauses (ROWS/RANGE BETWEEN) — Nov 2026
 
 ## ⏳ Revisited Later (alongside specific projects)
-- Advanced Window Frame Clauses (ROWS/RANGE BETWEEN) — Nov 2026
 - Cohort Analysis & RFM Segmentation — Feb 2027 (Project 4)
 - SQL for A/B Testing — May 2027 (Project 5)
 - Cloud SQL Platforms (BigQuery, etc.) — Aug 2027
@@ -35,4 +35,4 @@ fundamentals through advanced analytics patterns.
 
 ## 📝 Notes
 Practicing daily via LeetCode SQL (5 problems/day average) to reinforce fundamentals 
-while focus shifts to ML and Excel in Phase 1.
+while focus shifts to ML and Excel.
