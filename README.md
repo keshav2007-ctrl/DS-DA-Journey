@@ -32,6 +32,6 @@ documenting my Machine Learning learning from fundamentals through applied, depl
 - Key libraries: `scikit-learn`, `numpy`, `pandas`, `matplotlib`
 
 ## 📁 Structure
-- `/notebooks` — practice notebooks organized by topic
+- `/ML Practice` — practice notebooks organized by topics
 - `/projects` — applied ML work feeding into the main portfolio projects 
   (see main repo for Project 2: Prediction Model, Project 3: Fraud/Risk Scoring API, etc.)
