@@ -31,7 +31,7 @@ fundamentals through advanced analytics patterns.
 
 ## 🛠️ Setup
 - Local MySQL Server + VS Code with Database Client extension
-- Practice queries organized in `/queries` by topic
+- Practice queries organized in `/SQL_Practice` by topic
 
 ## 📝 Notes
 Practicing daily via LeetCode SQL (5 problems/day average) to reinforce fundamentals 
