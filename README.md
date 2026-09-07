@@ -11,7 +11,7 @@
 | 1 | [Snake Water Gun Game](https://github.com/keshav2007-ctrl/DS-DA-Journey/blob/main/Projects/Project1_Python.py) | Python | ✅ Done |
 | 2 | [The Perfect Guess](https://github.com/keshav2007-ctrl/DS-DA-Journey/blob/main/Projects/Project2_Python.py) | Python | ✅ Done |
 | 3 |[Shipment Tracking CLI](https://github.com/keshav2007-ctrl/DS-DA-Journey/tree/main/Projects/Project3_Python) | Python, pandas, argparse | ✅ Done |
-| 4 | EDA — [Superstore] | Python, Pandas | Aug 2026 | [x] Done |
+| 4 | [EDA — [Superstore]](https://github.com/keshav2007-ctrl/DS-DA-Journey/tree/main/Projects/Project4_eda) | Python, Pandas | ✅ Done | Aug 2026 |
 | 5 | Prediction Model | Python, Scikit-learn | Aug–Sep 2026 | ⏳ Upcoming |
 | 6 | Fraud/Risk Scoring API (deployed) | Scikit-learn, FastAPI, WOE/IV, Class Imbalance Handling | Nov 2026 – Jan 2027 | ⏳ Upcoming |
 | 7 | Real Cohort/Retention Dashboard | Pandas, Plotly, Causal Inference, Real Business/Club Data | Feb – Apr 2027 | ⏳ Upcoming |
