@@ -49,6 +49,6 @@ Python (pandas, numpy) for cleaning · Power BI for visualization and dashboardi
 ![Dashboard Screenshot](./dashboard_screenshot.png)
 
 ## Files
-- `superstore_eda.ipynb` — data cleaning and prep
+- [`superstore_eda.ipynb`](https://github.com/keshav2007-ctrl/DS-DA-Journey/blob/main/Projects/Project4_eda/Superstore_eda.ipynb) — data cleaning and prep
 - [`Superstore_Dashboard.pbix`](https://github.com/keshav2007-ctrl/DS-DA-Journey/blob/main/Projects/Project4_eda/Superstore_Dashboard.pbix) — Power BI dashboard file
 - `dashboard_screenshot.png` — static preview image
