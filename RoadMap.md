@@ -81,7 +81,6 @@ JPMorgan, Amex, Goldman Sachs, EXL, Genpact, Fidelity, Deutsche Bank, Gartner, N
 - Primary target: 2028 Data Science Analyst Program – Summer Analyst (applications Aug–Nov 2027)
 - Near-term: JPMorgan Forage virtual experience, LinkedIn networking/referrals
 - Code for Good hackathon — open to any bachelor's student, India-eligible, no grad-year restriction — an earlier pipeline entry point
-- Data for Good — not accessible (US/UK work authorization only)
 
 ---
 
